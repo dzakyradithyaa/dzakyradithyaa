@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Dzaky%20Radithya%20Abimanyu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer%20%C2%B7%20Founder%20of%20Jakdit%20Studio&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500"/>
+
+# Dzaky Radithya Abimanyu
+
+**Product Engineer · Founder of Jakdit Studio**
 
 <a href="https://dzakyradithyaa.vercel.app">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Turning+ideas+into+AI-powered+digital+products;Building+at+the+intersection+of+AI+%2B+IoT+%2B+Product;Founder+%40+Jakdit+Studio+%7C+Electronics+Instrumentation+UGM;Open+to+Product%2FSoftware+Engineering+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Turning+ideas+into+AI-powered+digital+products;Building+at+the+intersection+of+AI+%2B+IoT+%2B+Product;Founder+%40+Jakdit+Studio+%7C+Elins+Research+Club+UGM;Open+to+Product%2FSoftware+Engineering+roles" alt="Typing SVG" />
 </a>
 
 </div>
@@ -11,11 +15,11 @@
 <br/>
 
 > *"Technology means nothing until it solves a problem for someone who needed it."*
-> - the principle behind everything I build.
+> — the principle behind everything I build.
 
 <br/>
 
-## ⚡ Skill Focus
+## <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/zap-16.svg" width="20" valign="middle"/> Skill Focus
 
 <div align="center">
 
@@ -27,14 +31,14 @@
 
 <br/>
 
-### 🧠 How I Think
+### <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/cpu-16.svg" width="20" valign="middle"/> How I Think
 
 ```mermaid
 flowchart LR
-    A["🔍 Spot a real<br/>problem"] --> B["🧠 Think in<br/>systems"]
-    B --> C["⚙️ Prototype fast<br/>AI · IoT · Web"]
-    C --> D["👥 Validate with<br/>real users"]
-    D --> E["🚀 Ship & iterate"]
+    A["Spot a real<br/>problem"] --> B["Think in<br/>systems"]
+    B --> C["Prototype fast<br/>AI · IoT · Web"]
+    C --> D["Validate with<br/>real users"]
+    D --> E["Ship & iterate"]
     E -.feedback loop.-> A
 
     style A fill:#0F2027,stroke:#61DAFB,color:#fff
@@ -46,11 +50,11 @@ flowchart LR
 
 <br/>
 
-## 🎯 What I'm Building Right Now
+## <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/rocket-16.svg" width="20" valign="middle"/> What I'm Building Right Now
 
 <div align="center">
 
-| 🚀 | Focus |
+| <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/flame-16.svg" width="16" valign="middle"/> | Focus |
 |---|---|
 | **Jakdit Studio** | Running end-to-end product development for startups & organizations |
 | **AI-driven products** | Exploring AI reasoning + optimization for real-world decision systems |
@@ -60,7 +64,7 @@ flowchart LR
 
 <br/>
 
-## 📈 My Path So Far
+## <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/graph-16.svg" width="20" valign="middle"/> My Path So Far
 
 ```mermaid
 timeline
@@ -78,7 +82,7 @@ timeline
 
 <br/>
 
-## 🛠️ Tech Radar
+## <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/tools-16.svg" width="20" valign="middle"/> Tech Radar
 
 <div align="center">
 
@@ -113,13 +117,13 @@ timeline
 
 <br/>
 
-## 🏗️ Selected Work
+## <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/repo-16.svg" width="20" valign="middle"/> Selected Work
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**🏘️ Pagergunung Village Site**
+**<img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/home-16.svg" width="16" valign="middle"/> Pagergunung Village Site**
 <br/>
 AI-powered public services platform.
 <br/>
@@ -128,7 +132,7 @@ AI-powered public services platform.
 </td>
 <td width="33%" valign="top">
 
-**🥗 AI Nutrition Optimizer**
+**<img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/beaker-16.svg" width="16" valign="middle"/> AI Nutrition Optimizer**
 <br/>
 AI reasoning + linear programming for national-scale meal planning.
 <br/>
@@ -137,7 +141,7 @@ AI reasoning + linear programming for national-scale meal planning.
 </td>
 <td width="33%" valign="top">
 
-**🌾 Smart Village Monitor**
+**<img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/pulse-16.svg" width="16" valign="middle"/> Smart Village Monitor**
 <br/>
 Real-time env. dashboard from ESP32 sensors.
 <br/>
@@ -148,7 +152,7 @@ Real-time env. dashboard from ESP32 sensors.
 <tr>
 <td width="33%" valign="top">
 
-**🎨 Bhumi Kalapa Ecosystem**
+**<img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/paintbrush-16.svg" width="16" valign="middle"/> Bhumi Kalapa Ecosystem**
 <br/>
 Full brand system + web + catalog for local MSMEs.
 <br/>
@@ -157,7 +161,7 @@ Full brand system + web + catalog for local MSMEs.
 </td>
 <td width="33%" valign="top">
 
-**🔬 Colorimeter Platform**
+**<img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/beaker-16.svg" width="16" valign="middle"/> Colorimeter Platform**
 <br/>
 RGB sensor visualization + 3D-printed enclosure for lab research.
 <br/>
@@ -166,7 +170,7 @@ RGB sensor visualization + 3D-printed enclosure for lab research.
 </td>
 <td width="33%" valign="top">
 
-**🔗 NFT Staking Fix**
+**<img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/link-16.svg" width="16" valign="middle"/> NFT Staking Fix**
 <br/>
 Diagnosed & restored Web3 wallet + smart contract integration.
 <br/>
@@ -178,13 +182,13 @@ Diagnosed & restored Web3 wallet + smart contract integration.
 
 <div align="center">
 
-📎 Full case studies on my [**portfolio →**](https://dzakyradithyaa.vercel.app)
+<img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/paperclip-16.svg" width="16" valign="middle"/> Full case studies on my [**portfolio →**](https://dzakyradithyaa.vercel.app)
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/git-branch-16.svg" width="20" valign="middle"/> Contribution Snake
 
 <div align="center">
 
@@ -197,7 +201,7 @@ Diagnosed & restored Web3 wallet + smart contract integration.
 <br/>
 
 <details align="center">
-<summary>🎮 Psst — click here for a surprise</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/terminal-16.svg" width="16" valign="middle"/> Psst — click here for a surprise</summary>
 <br/>
 
 ```
@@ -215,7 +219,7 @@ $ sudo make coffee
 
 <br/>
 
-## 📊 GitHub Activity
+## <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/graph-16.svg" width="20" valign="middle"/> GitHub Activity
 
 <div align="center">
 
@@ -228,7 +232,7 @@ $ sudo make coffee
 
 <br/>
 
-## 🏅 Certifications & Recognition
+## <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/verified-16.svg" width="20" valign="middle"/> Certifications & Recognition
 
 <div align="center">
 
@@ -239,13 +243,13 @@ $ sudo make coffee
 | Intro to Software Engineering | RevoU |
 | The Field Guide to Human-Centered Design | — |
 
-🏆 Best Staff of the Month · 📰 Featured in *Kedaulatan Rakyat* — Digital Literacy & IoT Program
+<img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/trophy-16.svg" width="16" valign="middle"/> Best Staff of the Month · <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/device-camera-16.svg" width="16" valign="middle"/> Featured in *Kedaulatan Rakyat* — Digital Literacy & IoT Program
 
 </div>
 
 <br/>
 
-## 🤝 Let's Build Something
+## <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.8.0/build/svg/people-16.svg" width="20" valign="middle"/> Let's Build Something
 
 <div align="center">
 
@@ -261,6 +265,6 @@ $ sudo make coffee
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="380"/>
 
 </div>
