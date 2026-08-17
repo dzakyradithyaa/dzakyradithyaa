@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Dzaky%20Radithya%20Abimanyu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer%20%C2%B7%20Founder%20of%20Jakdit%20Studio&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://dzakyradithyaa.vercel.app">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Turning+ideas+into+AI-powered+digital+products;Building+at+the+intersection+of+AI+%2B+IoT+%2B+Product;Founder+%40+Jakdit+Studio+%7C+Elins+Research+Club+UGM;Open+to+Product%2FSoftware+Engineering+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Turning+ideas+into+AI-powered+digital+products;Building+at+the+intersection+of+AI+%2B+IoT+%2B+Product;Founder+%40+Jakdit+Studio+%7C+Electronics+Instrumentation+UGM;Open+to+Product%2FSoftware+Engineering+roles" alt="Typing SVG" />
 </a>
 
 </div>
@@ -11,47 +11,38 @@
 <br/>
 
 > *"Technology means nothing until it solves a problem for someone who needed it."*
-> — the principle behind everything I build.
+> - the principle behind everything I build.
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+## ⚡ Skill Focus
 
-### ⚡ Quick Facts
+<div align="center">
 
-```yaml
-role:        Product Engineer
-company:     Jakdit Studio (Founder)
-studying:    Electronics & Instrumentation, UGM
-based_in:    Bandung, West Java, Indonesia
-focus:       AI · IoT · Full-Stack · Web3
-experience:  3+ years shipping digital products
-status:      Open to Product/Software Engineering & AI roles
-```
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Product%20Strategy','AI%20%2F%20ML','Full-Stack%20Dev','IoT%20%2F%20Hardware','Design','Web3'],datasets:[{label:'Focus%20Level',data:[9,8,8,9,7,6],backgroundColor:'rgba(97,218,251,0.25)',borderColor:'rgb(97,218,251)',pointBackgroundColor:'rgb(97,218,251)'}]},options:{scales:{r:{angleLines:{color:'rgba(150,150,150,0.3)'},grid:{color:'rgba(150,150,150,0.3)'},pointLabels:{fontColor:'%23888',fontSize:12},ticks:{display:false}}},plugins:{legend:{display:false}}}}&backgroundColor=transparent&width=480&height=340" width="480"/>
 
-</td>
-<td width="50%" valign="top">
+<sub>Where I spend most of my energy — self-rated, always evolving.</sub>
+
+</div>
+
+<br/>
 
 ### 🧠 How I Think
 
-```javascript
-const dzaky = {
-  builds:   ["AI systems", "IoT platforms", "Web apps"],
-  believes: "good products start with real problems",
-  currently: "leading product dev for real-world impact",
-  askMeAbout: [
-    "AI-driven product development",
-    "IoT for agriculture & smart villages",
-    "scaling ideas into shipped products"
-  ],
-};
-```
+```mermaid
+flowchart LR
+    A["🔍 Spot a real<br/>problem"] --> B["🧠 Think in<br/>systems"]
+    B --> C["⚙️ Prototype fast<br/>AI · IoT · Web"]
+    C --> D["👥 Validate with<br/>real users"]
+    D --> E["🚀 Ship & iterate"]
+    E -.feedback loop.-> A
 
-</td>
-</tr>
-</table>
+    style A fill:#0F2027,stroke:#61DAFB,color:#fff
+    style B fill:#203A43,stroke:#61DAFB,color:#fff
+    style C fill:#2C5364,stroke:#61DAFB,color:#fff
+    style D fill:#203A43,stroke:#61DAFB,color:#fff
+    style E fill:#0F2027,stroke:#61DAFB,color:#fff
+```
 
 <br/>
 
@@ -71,22 +62,19 @@ const dzaky = {
 
 ## 📈 My Path So Far
 
-<div align="center">
-
+```mermaid
+timeline
+    title Career Journey
+    2023 : Founded Jakdit Studio
+         : end-to-end digital products for startups & orgs
+    2024 : Led Design & Web Dev Divisions
+         : BEM KM UGM · Elins Research Club UGM
+    2025 : Technical Lead, AI Nutrition Optimization Platform
+         : Built Smart Village Monitoring System
+         : Initiated PkM Bootcamp (32 students trained)
+    2026 : Software Engineer Intern, AMX UAV Technologies
+         : Product Engineer, KKN-PPM UGM (100 SEO / 98 Performance)
 ```
-2023 ─┬─ Founded Jakdit Studio → end-to-end digital products for startups & orgs
-      │
-2024 ─┼─ Led Design & Web Dev divisions @ BEM KM UGM and Elins Research Club
-      │
-2025 ─┼─ Technical Lead — AI Nutrition Optimization Platform (national impact)
-      ├─ Built Smart Village Monitoring System (React + FastAPI + MQTT + ESP32)
-      ├─ Initiated PkM Bootcamp — trained 32 students in JS/FastAPI/IoT
-      │
-2026 ─┴─ Software Engineer Intern @ AMX UAV Technologies
-        Product Engineer, KKN-PPM UGM → 100 SEO / 98 Performance village site
-```
-
-</div>
 
 <br/>
 
