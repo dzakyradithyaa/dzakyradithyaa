@@ -1,112 +1,247 @@
-<h1 align="center">Hi, I'm Dzaky Radithya Abimanyu 👋</h1>
+<div align="center">
 
-<h3 align="center">Product Engineer · Founder @ Jakdit Studio · Electronics & Instrumentation @ Universitas Gadjah Mada</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Dzaky%20Radithya%20Abimanyu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer%20%C2%B7%20Founder%20of%20Jakdit%20Studio&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  Building AI, IoT & scalable digital products that create real-world impact.
-</p>
+<a href="https://dzakyradithyaa.vercel.app">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Turning+ideas+into+AI-powered+digital+products;Building+at+the+intersection+of+AI+%2B+IoT+%2B+Product;Founder+%40+Jakdit+Studio+%7C+Elins+Research+Club+UGM;Open+to+Product%2FSoftware+Engineering+roles" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dzakyradithyaa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dzakyradithyaa.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:radithyadzaky040505@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-### 🧭 About Me
+> *"Technology means nothing until it solves a problem for someone who needed it."*
+> — the principle behind everything I build.
 
-I'm a **Product Engineer** and **Founder of Jakdit Studio**, with 3+ years of experience turning ideas into digital products. I combine **AI, IoT, full-stack development, and product thinking** to build solutions that matter.
+<br/>
 
-- 🚀 Founded **Jakdit Studio** — delivering end-to-end digital products for startups, businesses, and organizations, from branding and product strategy to web development and AI integration.
-- 🌱 Built **AI, IoT, UAV, and Web3** solutions supporting digital transformation across agriculture, healthcare, education, and community sectors.
-- 🧩 Led product development from ideation to deployment, collaborating with multidisciplinary teams to deliver scalable, user-centered solutions.
-- 🎯 Currently open to opportunities in **Product Engineering, Software Engineering, and AI-driven Product Development**.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
----
+### ⚡ Quick Facts
 
-### 🛠️ Tech Stack & Skills
+```yaml
+role:        Product Engineer
+company:     Jakdit Studio (Founder)
+studying:    Electronics & Instrumentation, UGM
+based_in:    Bandung, West Java, Indonesia
+focus:       AI · IoT · Full-Stack · Web3
+experience:  3+ years shipping digital products
+status:      Open to Product/Software Engineering & AI roles
+```
 
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-**Data, Cloud & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-</p>
+### 🧠 How I Think
 
-**Design & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
+```javascript
+const dzaky = {
+  builds:   ["AI systems", "IoT platforms", "Web apps"],
+  believes: "good products start with real problems",
+  currently: "leading product dev for real-world impact",
+  askMeAbout: [
+    "AI-driven product development",
+    "IoT for agriculture & smart villages",
+    "scaling ideas into shipped products"
+  ],
+};
+```
 
-**Core Competencies:** Product R&D · Smart Contracts / Web3 · Agile Project Management · AI Integration · Full-Stack Development
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 💼 Featured Work
+## 🎯 What I'm Building Right Now
 
-| Project | Description |
+<div align="center">
+
+| 🚀 | Focus |
 |---|---|
-| **Pagergunung Village Website** | Official village website with AI-powered public services — 100 SEO / 98 Performance on Google Lighthouse. |
-| **AI & Optimization Framework for National Nutrition Program** | AI reasoning + linear programming engine generating nutritionally balanced meal recommendations at scale. |
-| **Smart Village Monitoring System** | Real-time environmental dashboard (React, Next.js, FastAPI, MQTT) integrating ESP32 sensors for agriculture. |
-| **Colorimeter Visualization Platform** | React-based RGB sensor data visualization for laboratory colorimetry research, with custom 3D-printed enclosure. |
-| **Bhumi Kalapa Brand Ecosystem** | Full brand identity, website, and product catalog built for local MSMEs. |
+| **Jakdit Studio** | Running end-to-end product development for startups & organizations |
+| **AI-driven products** | Exploring AI reasoning + optimization for real-world decision systems |
+| **IoT for good** | Connecting hardware and software for agriculture, health & community impact |
 
-> More details on my [portfolio →](https://dzakyradithyaa.github.io)
+</div>
 
----
+<br/>
 
-### 🌍 Leadership & Community
+## 📈 My Path So Far
 
-- **Head of Website Development Division**, Elins Research Club UGM — led AI/IoT/web development teams and established engineering standards.
-- **Deputy Chief, Information Media Bureau**, BEM KM UGM — led strategic planning and visual branding across the organization.
-- **Program Initiator**, PkM Bootcamp — trained 32 students in JavaScript, FastAPI, and IoT development.
+<div align="center">
 
----
+```
+2023 ─┬─ Founded Jakdit Studio → end-to-end digital products for startups & orgs
+      │
+2024 ─┼─ Led Design & Web Dev divisions @ BEM KM UGM and Elins Research Club
+      │
+2025 ─┼─ Technical Lead — AI Nutrition Optimization Platform (national impact)
+      ├─ Built Smart Village Monitoring System (React + FastAPI + MQTT + ESP32)
+      ├─ Initiated PkM Bootcamp — trained 32 students in JS/FastAPI/IoT
+      │
+2026 ─┴─ Software Engineer Intern @ AMX UAV Technologies
+        Product Engineer, KKN-PPM UGM → 100 SEO / 98 Performance village site
+```
 
-### 🏆 Certifications & Recognition
+</div>
 
-- Preparation Course for Azure AI Fundamentals (AI-900)
-- IBM x Hacktiv8 Student Developer Initiative — Code Generation & Optimization with IBM Granite
-- RevoU Fundamental Course — Intro to Software Engineering
-- Featured in *Kedaulatan Rakyat* — Digital Literacy & IoT Training Program
+<br/>
 
----
+## 🛠️ Tech Radar
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dzakyradithyaa&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyradithyaa&layout=compact&hide_border=true" />
-</p>
+**Product & Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
----
+**Backend & AI**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-### 📫 Let's Connect
+**IoT, Cloud & Web3**
+<br/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dzakyradithyaa">LinkedIn</a> ·
-  <a href="https://dzakyradithyaa.github.io">Portfolio</a> ·
-  <a href="mailto:radithyadzaky040505@gmail.com">Email</a>
-</p>
+**Design**
+<br/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 🏗️ Selected Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏘️ Pagergunung Village Site**
+<br/>
+AI-powered public services platform.
+<br/>
+`100 SEO` `98 Performance`
+
+</td>
+<td width="33%" valign="top">
+
+**🥗 AI Nutrition Optimizer**
+<br/>
+AI reasoning + linear programming for national-scale meal planning.
+<br/>
+`Python` `AI Reasoning`
+
+</td>
+<td width="33%" valign="top">
+
+**🌾 Smart Village Monitor**
+<br/>
+Real-time env. dashboard from ESP32 sensors.
+<br/>
+`React` `FastAPI` `MQTT`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🎨 Bhumi Kalapa Ecosystem**
+<br/>
+Full brand system + web + catalog for local MSMEs.
+<br/>
+`Branding` `Next.js`
+
+</td>
+<td width="33%" valign="top">
+
+**🔬 Colorimeter Platform**
+<br/>
+RGB sensor visualization + 3D-printed enclosure for lab research.
+<br/>
+`React` `Blender`
+
+</td>
+<td width="33%" valign="top">
+
+**🔗 NFT Staking Fix**
+<br/>
+Diagnosed & restored Web3 wallet + smart contract integration.
+<br/>
+`Solidity` `Web3`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📎 Full case studies on my [**portfolio →**](https://dzakyradithyaa.vercel.app)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dzakyradithyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=dzakyradithyaa&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyradithyaa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+## 🏅 Certifications & Recognition
+
+<div align="center">
+
+| Certification | Issuer |
+|---|---|
+| Azure AI Fundamentals (AI-900) Prep | Microsoft |
+| Code Generation & Optimization w/ IBM Granite | IBM × Hacktiv8 |
+| Intro to Software Engineering | RevoU |
+| The Field Guide to Human-Centered Design | — |
+
+🏆 Best Staff of the Month · 📰 Featured in *Kedaulatan Rakyat* — Digital Literacy & IoT Program
+
+</div>
+
+<br/>
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dzakyradithyaa">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://dzakyradithyaa.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:radithyadzaky040505@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
