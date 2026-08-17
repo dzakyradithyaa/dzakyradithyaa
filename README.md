@@ -196,6 +196,37 @@ Diagnosed & restored Web3 wallet + smart contract integration.
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dzakyradithyaa/dzakyradithyaa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Auto-updates daily — the snake literally eats my contribution graph.</sub>
+
+</div>
+
+<br/>
+
+<details align="center">
+<summary>🎮 Psst — click here for a surprise</summary>
+<br/>
+
+```
+$ whoami
+> a product engineer who thinks in systems and ships in weeks, not months
+
+$ cat ./philosophy.txt
+> AI is only as good as the problem it's aimed at.
+
+$ sudo make coffee
+> permission granted. brewing...
+```
+
+</details>
+
+<br/>
+
 ## 📊 GitHub Activity
 
 <div align="center">
